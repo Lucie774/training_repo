@@ -26,6 +26,8 @@ FROM countries c
 WHERE lower(currency_name) LIKE ('%dollar%')
 ;  -- výsledek ze cvičení: lower?proč?
 
+SELECT *
+FROM healthcare_provider ;
 
 
 
